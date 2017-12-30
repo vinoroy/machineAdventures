@@ -1,14 +1,17 @@
-.. Machine learning adventures documentation master file, created by
-   sphinx-quickstart on Sat Dec 30 08:29:16 2017.
+.. Adventures in machine learning documentation master file, created by
+   sphinx-quickstart on Sat Dec 30 08:12:11 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Machine learning adventures's documentation!
-=======================================================
+Welcome to Adventures in machine learning's documentation!
+==========================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   
+   ../notes/concrete
 
 
 Goal
@@ -28,6 +31,8 @@ Multi parameter linear regression
 quantities of the concrete mixture.
 
 .. _Concrete: concrete.html
+
+
 
 
 
