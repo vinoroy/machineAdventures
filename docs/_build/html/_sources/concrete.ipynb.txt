@@ -4,9 +4,13 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "A multi parameter linear regression model developed to predict the compressive strength of concrete based on the\n",
-    "quantities of the concrete mixture cement, slag, fly ash, water, SP, coarse aggregate and fine aggregate. The unhardened\n",
-    "concrete characteristics of slump and flow are also used to estimate the concrete strength."
+    "# Concrete strength prediction model\n",
+    "\n",
+    "The following notebook contains a __multi parameter linear regression model__ developed to predict the compressive strength of concrete based on the quantities of the concrete mixture cement, slag, fly ash, water, SP, coarse aggregate and fine aggregate. The unhardened concrete characteristics of slump and flow are also used to estimate the concrete strength.\n",
+    "\n",
+    "The data was downloaded from the UCI database\n",
+    "https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test\n",
+    "\n"
    ]
   },
   {
@@ -38,6 +42,13 @@
    "source": [
     "# load the data for the concrete mixtures\n",
     "data = pd.read_csv('../data/concrete.csv')"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "This function is used to normalize from 0 to 1 the values of a matrix. The normalization is based on the min and max value of each column"
    ]
   },
   {
