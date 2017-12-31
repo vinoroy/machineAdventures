@@ -28,7 +28,7 @@ Multi parameter linear regression
 `Concrete`_ Is a multi parameter linear regression model developed to predict the compressive strength of concrete based on the
 quantities of the concrete mixture.
 
-.. _Concrete: concrete.html
+.. _Concrete: https://github.com/vinoroy/machineAdventures/blob/master/docs/concrete.ipynb
 
 
 
