@@ -11,8 +11,6 @@ Welcome to Machine learning adventures's documentation!
    :caption: Contents:
    
   
-
-
 Goal
 ----
 
@@ -24,12 +22,10 @@ of the diiferent algorthims. This in my opion, is very important in order to und
 
 .. _Andrew: https://fr.coursera.org/learn/machine-learning
 
-I am also reading the following machine learning books :
+I am also reading the following machine learning books:
 
-1) Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 1st Edition
-by Aurélien Géron
-
-2) Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition by Wes McKinney (Author)
+- Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 1st Edition by Aurélien Géron.
+- Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition by Wes McKinney.
 
 
 
@@ -46,6 +42,8 @@ quantities of the concrete mixture.
 
 Classification models
 ---------------------
+
+More to come
 
 
 
