@@ -21,15 +21,19 @@ to document my machine learning experiences in order to teach myself as well as 
 
 
 
-Multi parameter linear regression
----------------------------------
+Multi parameter linear regression models 
+----------------------------------------
 
 
-`Concrete`_ Is a multi parameter linear regression model developed to predict the compressive strength of concrete based on the
+`Concrete`_ is a multi parameter linear regression model developed to predict the compressive strength of concrete based on the
 quantities of the concrete mixture.
 
 .. _Concrete: https://github.com/vinoroy/machineAdventures/blob/master/docs/concrete.ipynb
 
+
+
+Classification models
+---------------------
 
 
 Indices and tables
