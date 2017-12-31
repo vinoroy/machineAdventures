@@ -22,13 +22,14 @@ to document my machine learning experiences in order to teach myself as well as 
 I am currently following the `Andrew`_ Ng cousera course on Machine learning. This is an exellente course, since it goes into the details
 of the diiferent algorthims. This in my opion, is very important in order to understand what the algorithms are doing.
 
-.. _Andrew: https://github.com/vinoroy/machineAdventures/blob/master/docs/concrete.ipynb
+.. _Andrew: https://fr.coursera.org/learn/machine-learning
 
 I am also reading the following machine learning books :
 
 1) Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 1st Edition
-by Aurélien Géron (Author)
+by Aurélien Géron
 
+2) Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition by Wes McKinney (Author)
 
 
 
@@ -45,6 +46,9 @@ quantities of the concrete mixture.
 
 Classification models
 ---------------------
+
+
+
 
 
 Indices and tables
