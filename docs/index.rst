@@ -46,10 +46,7 @@ Classification models
 `Iris`_ is a classification problem where a logisitics regression model and a decision tree model are used for the classification of
 three types of Iris flowers.
 
-.. Iris: 
-
-
-
+.. _Iris: https://github.com/vinoroy/machineAdventures/blob/master/docs/iris.ipynb
 
 
 
