@@ -43,7 +43,7 @@ quantities of the concrete mixture.
 Classification models
 ---------------------
 
-More to come
+More to come soon
 
 
 
