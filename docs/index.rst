@@ -43,7 +43,13 @@ quantities of the concrete mixture.
 Classification models
 ---------------------
 
-More to come soon
+`Iris`_ is a classification problem where a logisitics regression model and a decision tree model are used for the classification of
+three types of Iris flowers.
+
+.. Iris: 
+
+
+
 
 
 
