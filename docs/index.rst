@@ -17,10 +17,11 @@ Goal
 This page is dedicated to the documentation of my machine learning adventurers. I have decided
 to document my machine learning experiences in order to teach myself as well as to share with others.
 
-I am currently following the `Andrew`_ Ng Cousera course on Machine learning. This is an exellente course, since it goes into the details
+I am currently following the machine learning course Machine Learning Fram A to Z on Udemy `Udemy`_ is a multi parameter linear regression model developed to predict the compressive strength of concrete based on the
+. This is an exellente course, since it goes into the details
 of the different algorthims. This in my opion, is very important in order to understand what the algorithms are doing.
 
-.. _Andrew: https://fr.coursera.org/learn/machine-learning
+.. _Udemy: https://www.udemy.com/machinelearning/
 
 I am also reading the following machine learning books:
 
