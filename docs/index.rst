@@ -33,7 +33,7 @@ Statistical learning course
 `Assignemtn2`_ The following is Jupyter NoteBook with Linear regression and classification exercices
 
 
-.. _Assignemtn2: https://github.com/vinoroy/machineAdventures/blob/master/docs/concrete.ipynb
+.. _Assignemtn2: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment02_spring2019_VincentRoy.ipynb
 
 
 Multi parameter linear regression models 
