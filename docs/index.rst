@@ -34,7 +34,7 @@ Statistical learning course
 understand probability distributions, expected values and varaince.
 
 
-.. _Assignment1:: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment02_spring2019_VincentRoy.ipynb
+.. _Assignment1:: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment01_spring2019_VincentRoy.ipynb
 
 
 
