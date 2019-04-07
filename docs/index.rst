@@ -33,16 +33,14 @@ Statistical learning course
 `Assignment1`_ The following Jupyter NoteBook demonstrates the use of different types of distribution (Bernouille, binomial, poisson) to
 understand probability distributions, expected values and varaince.
 
-
-.. _Assignment1:: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment01_spring2019_VincentRoy.ipynb
+.. _Assignment1: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment01_spring2019_VincentRoy.ipynb
 
 
 
 `Assignment2`_ The following Jupyter NoteBook demonstrates the use of Linear regression and Classification models (Logistic
 regression, LDA and QDA)
 
-
-.. _Assignment2:: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment02_spring2019_VincentRoy.ipynb
+.. _Assignment2: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment02_spring2019_VincentRoy.ipynb
 
 
 Multi parameter linear regression models 
