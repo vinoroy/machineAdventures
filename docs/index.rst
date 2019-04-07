@@ -23,6 +23,7 @@ I am currently following a statistical learning course at McGill University
 
 I am also reading the following machine learning books:
 
+- An Introduction to Statistical Learning with Applications in R, by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 - Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 1st Edition by Aurélien Géron.
 - Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition by Wes McKinney.
 
@@ -34,7 +35,6 @@ Statistical learning course
 understand probability distributions, expected values and varaince.
 
 .. _Assignment1: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment01_spring2019_VincentRoy.ipynb
-
 
 
 `Assignment2`_ The following Jupyter NoteBook demonstrates the use of Linear regression and Classification models (Logistic
@@ -61,8 +61,6 @@ Classification models
 three types of Iris flowers.
 
 .. _Iris: https://github.com/vinoroy/machineAdventures/blob/master/docs/iris.ipynb
-
-
 
 
 
