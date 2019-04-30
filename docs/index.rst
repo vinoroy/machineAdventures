@@ -67,12 +67,12 @@ regression, LDA and QDA)
 
 `Assignment3`_ The following Jupyter NoteBook demonstrates the use of cross-validation and model regularization
 
-.. _Assignment3: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment03_spring2019_VincentRoy.ipynb
+.. _Assignment3: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment03-spring2019_VincentRoy.ipynb
 
 `Assignment4`_ The following is a pdf presentation that I gave to my class for an insurance risk reduction case study that
 used a logistic model and a decision tree to identify and predict the chance of heart disease for future insurance clients
 
-.. _Assignment4: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment04_spring2019_VincentRoy.pdf
+.. _Assignment4: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment04-spring2019_VincentRoy.pdf
 
 
 
