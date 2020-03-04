@@ -24,7 +24,7 @@ I did my undergrad at Queen’s University in civil engineering. I then pursued 
 at McGill University. After working for 5 years,  I went back to school to do a second master’s in technology and
 project management from Portland State University. Furthermore, I have undertaken courses in computer science with the
 University of Rimouski and a graduate certificate in computing with the Oregon Institute of Technology. I am currently
-taking a course in Statistical Learning at McGill University.
+following certificat in Data Science and Machine Learning at McGill University.
 
 Ever since I was a teenager I have been fascinated with computers. This started the day my father came home with a
 TI-994A. Since only a handful of games were available at the time, programming quickly became a past time. In the early
@@ -50,8 +50,8 @@ I am also reading the following machine learning books:
 - Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition by Wes McKinney.
 
 
-Statistical learning course
----------------------------
+Statistical learning course (YCBS255)
+-------------------------------------
 
 `Assignment1`_ The following Jupyter NoteBook demonstrates the use of different types of distribution (Bernouille, binomial, poisson) to
 understand probability distributions, expected values and varaince.
@@ -73,6 +73,32 @@ regression, LDA and QDA)
 used a logistic model and a decision tree to identify and predict the chance of heart disease for future insurance clients
 
 .. _Assignment4: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment04-spring2019_VincentRoy.pdf
+
+
+Pratical Machine learning course (YCBS258)
+------------------------------------------
+
+
+`Assignment1`_ The following Jupyter NoteBook demonstrates MLP understand probability distributions, expected values and varaince.
+
+.. _Assignment1: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment01_spring2019_VincentRoy.ipynb
+
+
+`Assignment2`_ The following Jupyter NoteBook demonstrates the use of Linear regression and Classification models (Logistic
+regression, LDA and QDA)
+
+.. _Assignment2: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment02_spring2019_VincentRoy.ipynb
+
+
+`Assignment3`_ The following Jupyter NoteBook demonstrates the use of cross-validation and model regularization
+
+.. _Assignment3: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment03-spring2019_VincentRoy.ipynb
+
+`Assignment4`_ The following is a pdf presentation that I gave to my class for an insurance risk reduction case study that
+used a logistic model and a decision tree to identify and predict the chance of heart disease for future insurance clients
+
+.. _Assignment4: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment04-spring2019_VincentRoy.pdf
+
 
 
 
