@@ -76,7 +76,7 @@ Pratical Machine learning course (YCBS258)
 
 [Assignment4](https://github.com/vinoroy/machineAdventures/blob/master/docs/YCBS258_191122_assignment4_VincentRoy.ipynb) The following Jupyter Notebook demonstrates the use autoencoder deep neural network architecture to encode and decode the MNIST dataset
 
-[Assignment5](https://medium.com/@vinoroy70/tales-of-a-machine-learning-startup-50b290e1c9cd) The following Medium article was my final course project. It illustrates how to build and deploy a diabetes diagnostic app from A to Z using Tensorflow, Google Cloud Platform and Flask
+[Assignment5] https://medium.com/@vinoroy70/tales-of-a-machine-learning-startup-50b290e1c9cd The following Medium article was my final course project. It illustrates how to build and deploy a diabetes diagnostic app from A to Z using Tensorflow, Google Cloud Platform and Flask
 
 
 Multi parameter linear regression models 
