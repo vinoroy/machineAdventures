@@ -53,10 +53,9 @@ I am also reading the following machine learning books:
 Statistical learning course (YCBS255)
 -------------------------------------
 
-`Assignment1`_ The following Jupyter NoteBook demonstrates the use of different types of distribution (Bernouille, binomial, poisson) to
+[Assignment1](https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment01_spring2019_VincentRoy.ipynb) The following Jupyter NoteBook demonstrates the use of different types of distribution (Bernouille, binomial, poisson) to
 understand probability distributions, expected values and varaince.
 
-.. _Assignment1: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment01_spring2019_VincentRoy.ipynb
 
 
 `Assignment2`_ The following Jupyter NoteBook demonstrates the use of Linear regression and Classification models (Logistic
