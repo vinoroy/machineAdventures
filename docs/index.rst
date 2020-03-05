@@ -56,73 +56,41 @@ Statistical learning course (YCBS255)
 [Assignment1](https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment01_spring2019_VincentRoy.ipynb) The following Jupyter NoteBook demonstrates the use of different types of distribution (Bernouille, binomial, poisson) to
 understand probability distributions, expected values and varaince.
 
-
-
-`Assignment2`_ The following Jupyter NoteBook demonstrates the use of Linear regression and Classification models (Logistic
+[Assignment2](https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment02_spring2019_VincentRoy.ipynb) The following Jupyter NoteBook demonstrates the use of Linear regression and Classification models (Logistic
 regression, LDA and QDA)
 
-.. _Assignment2: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment02_spring2019_VincentRoy.ipynb
+[Assignment3](https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment03-spring2019_VincentRoy.ipynb) The following Jupyter NoteBook demonstrates the use of cross-validation and model regularization
 
-
-`Assignment3`_ The following Jupyter NoteBook demonstrates the use of cross-validation and model regularization
-
-.. _Assignment3: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment03-spring2019_VincentRoy.ipynb
-
-`Assignment4`_ The following is a pdf presentation that I gave to my class for an insurance risk reduction case study that
+[Assignment4](https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment04-spring2019_VincentRoy.pdf) The following is a pdf presentation that I gave to my class for an insurance risk reduction case study that
 used a logistic model and a decision tree to identify and predict the chance of heart disease for future insurance clients
-
-.. _Assignment4: https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment04-spring2019_VincentRoy.pdf
 
 
 Pratical Machine learning course (YCBS258)
 ------------------------------------------
 
+[Assignment1](https://github.com/vinoroy/machineAdventures/blob/master/docs/YCBS258_191031_assignment1_VincentRoy.ipynb) The following Jupyter NoteBook demonstrates the of a neural network MLP to predict the prices of houses using the Boston housing dataset. The MLP was created usin the keras and tensorflow backend
 
-`Assignment1`_ The following Jupyter NoteBook demonstrates the of a neural network MLP to predict the prices of houses using the Boston housing dataset. The MLP was created usin the keras and tensorflow backend
+[Assignment2](https://github.com/vinoroy/machineAdventures/blob/master/docs/YCBS258_191108_assignment2_VincentRoy.ipynb) The following Jupyter NoteBook demonstrates the use of keras and tensorflow to create a deep neural network to classify the cifar10 images.
 
-.. _Assignment1: https://github.com/vinoroy/machineAdventures/blob/master/docs/YCBS258_191031_assignment1_VincentRoy.ipynb
+[Assignment3](https://github.com/vinoroy/machineAdventures/blob/master/docs/YCBS258_191115_assignment3_VincentRoy.ipynb) The following Jupyter NoteBook demonstrates the use of deep RNN and LSTM to forcast time series data. The data set used is the Coca Cola stock data. The models are created using keras and tensorflow.
 
+[Assignment4](https://github.com/vinoroy/machineAdventures/blob/master/docs/YCBS258_191122_assignment4_VincentRoy.ipynb) The following Jupyter Notebook demonstrates the use autoencoder deep neural network architecture to encode and decode the MNIST dataset
 
-`Assignment2`_ The following Jupyter NoteBook demonstrates the use of keras and tensorflow to create a deep neural network to classify the cifar10 images.
-
-.. _Assignment2: https://github.com/vinoroy/machineAdventures/blob/master/docs/YCBS258_191108_assignment2_VincentRoy.ipynb
-
-
-`Assignment3`_ The following Jupyter NoteBook demonstrates the use of deep RNN and LSTM to forcast time series data. The data set used is the Coca Cola stock data. The models are created using keras and tensorflow.
-
-.. _Assignment3: https://github.com/vinoroy/machineAdventures/blob/master/docs/YCBS258_191115_assignment3_VincentRoy.ipynb
-
-`Assignment4`_ The following Jupyter Notebook demonstrates the use autoencoder deep neural network architecture to encode and decode the MNIST dataset
-
-.. _Assignment4: https://github.com/vinoroy/machineAdventures/blob/master/docs/YCBS258_191122_assignment4_VincentRoy.ipynb
-
-
-`Assignment5`_ The following Medium article was my final course project. It illustrates how to build and deploy a diabetes diagnostic app from A to Z using Tensorflow, Google Cloud Platform and Flask
-
-.. _Assignment5: https://medium.com/@vinoroy70/tales-of-a-machine-learning-startup-50b290e1c9cd
-
-
+[Assignment5](https://medium.com/@vinoroy70/tales-of-a-machine-learning-startup-50b290e1c9cd) The following Medium article was my final course project. It illustrates how to build and deploy a diabetes diagnostic app from A to Z using Tensorflow, Google Cloud Platform and Flask
 
 
 Multi parameter linear regression models 
 ----------------------------------------
 
-
-`Concrete`_ is a multi parameter linear regression model developed to predict the compressive strength of concrete based on the
+[Concrete](https://github.com/vinoroy/machineAdventures/blob/master/docs/concrete.ipynb) is a multi parameter linear regression model developed to predict the compressive strength of concrete based on the
 quantities of the concrete mixture.
-
-.. _Concrete: https://github.com/vinoroy/machineAdventures/blob/master/docs/concrete.ipynb
-
 
 
 Classification models
 ---------------------
 
-`Iris`_ is a classification problem where a logisitics regression model and a decision tree model are used for the classification of
+[Iris](https://github.com/vinoroy/machineAdventures/blob/master/docs/iris.ipynb) is a classification problem where a logisitics regression model and a decision tree model are used for the classification of
 three types of Iris flowers.
-
-.. _Iris: https://github.com/vinoroy/machineAdventures/blob/master/docs/iris.ipynb
-
 
 
 Indices and tables
