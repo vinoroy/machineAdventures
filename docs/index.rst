@@ -56,7 +56,7 @@ Statistical learning course (YCBS255)
 [Assignment1](https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment01_spring2019_VincentRoy.ipynb) The following Jupyter NoteBook demonstrates the use of different types of distribution (Bernouille, binomial, poisson) to
 understand probability distributions, expected values and varaince.
 
-[Assignment2](https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment02_spring2019_VincentRoy.ipynb) The following Jupyter NoteBook demonstrates the use of Linear regression and Classification models (Logistic
+[Assignment2]() The following Jupyter NoteBook demonstrates the use of Linear regression and Classification models (Logistic
 regression, LDA and QDA)
 
 [Assignment3](https://github.com/vinoroy/machineAdventures/blob/master/docs/assignment03-spring2019_VincentRoy.ipynb) The following Jupyter NoteBook demonstrates the use of cross-validation and model regularization
