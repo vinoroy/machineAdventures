@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24b60bb4-6c2b-43ca-8493-c33e560ece14" name="Default" comment="" />
+    <list default="true" id="24b60bb4-6c2b-43ca-8493-c33e560ece14" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.ipynb_checkpoints/test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.ipynb_checkpoints/untitled-checkpoint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/test.slides.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/untitled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python" beforeDir="false" afterPath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/02-Discrete-Bayes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/02-Discrete-Bayes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/03-Gaussians.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/03-Gaussians.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/04-One-Dimensional-Kalman-Filters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/04-One-Dimensional-Kalman-Filters.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/05-Multivariate-Gaussians.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/05-Multivariate-Gaussians.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/06-Multivariate-Kalman-Filters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/06-Multivariate-Kalman-Filters.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/08-Designing-Kalman-Filters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kalman/Kalman-and-Bayesian-Filters-in-Python/08-Designing-Kalman-Filters.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +29,11 @@
     <session id="819119717">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,15 +67,6 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.rst">
           <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/assignment01_spring2019_VincentRoy.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="16" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>

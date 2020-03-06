@@ -65,6 +65,7 @@ regression, LDA and QDA)
 used a logistic model and a decision tree to identify and predict the chance of heart disease for future insurance clients
 
 
+
 Pratical Machine learning course (YCBS258)
 ------------------------------------------
 
